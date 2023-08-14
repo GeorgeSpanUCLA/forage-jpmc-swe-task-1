@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-test",
+      "appliesTo": "test.csv",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-server3",
+      "appliesTo": "server3.py",
+      "type": "launch"
+    }
+  ]
+}
